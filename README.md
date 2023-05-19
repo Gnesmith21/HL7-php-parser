@@ -1,6 +1,6 @@
 # HL7 to PHP Array Converter
 
-This is a simple PHP lkibrary that allows you to parce an HL7 message into a PHP array, following the HL7 standard. It allows you to easily parse and access the different segments and fields of an HL7 message.
+This is a simple PHP library that allows you to parse an HL7 message into a PHP array, following the HL7 standard. It allows you to easily parse and access the different segments and fields of an HL7 message.
 
 ## Usage
 
